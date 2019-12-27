@@ -1,4 +1,4 @@
-package com.github.radium226.beta.system
+package com.github.radium226.system
 
 trait AllInstances extends ExecutorInstances
 

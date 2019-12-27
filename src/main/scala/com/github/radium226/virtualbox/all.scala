@@ -1,4 +1,4 @@
-package com.github.radium226.beta.virtualbox
+package com.github.radium226.virtualbox
 
 trait AllSyntax extends MachineSyntax
 
